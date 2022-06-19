@@ -1,6 +1,8 @@
 # Contextual-Cards
 An example showing how to display different view types and their attributes in a list view using a JSON response.
 
+<img src="images/banner.PNG" alt="" width="80%">
+
 ## Usage
 Provide the card structure in Json using the given schema and see the magic.
 
@@ -45,10 +47,17 @@ Provide the card structure in Json using the given schema and see the magic.
 ```
 
 
-<img src="images/result1.PNG" alt="" width="80%">
+<img src="images/example.PNG" alt="" height="40%">
 
 ### Built With
 
 <img src="https://miro.medium.com/max/480/1*oNM0JVqivoi3lVPF6ygp9Q.png" alt="" width="120" height="64">
 
 * [Kotlin](https://kotlinlang.org/)
+
+### Note
+
+Tasks remaining
+- Text formatting
+- Network loading and error states
+- Gradient
